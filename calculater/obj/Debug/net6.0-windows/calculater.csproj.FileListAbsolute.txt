@@ -1,0 +1,42 @@
+C:\Users\Lahiru\source\repos\calculater\calculater\bin\Debug\net6.0-windows\calculater.exe
+C:\Users\Lahiru\source\repos\calculater\calculater\bin\Debug\net6.0-windows\calculater.deps.json
+C:\Users\Lahiru\source\repos\calculater\calculater\bin\Debug\net6.0-windows\calculater.runtimeconfig.json
+C:\Users\Lahiru\source\repos\calculater\calculater\bin\Debug\net6.0-windows\calculater.dll
+C:\Users\Lahiru\source\repos\calculater\calculater\bin\Debug\net6.0-windows\calculater.pdb
+C:\Users\Lahiru\source\repos\calculater\calculater\obj\Debug\net6.0-windows\calculater.csproj.AssemblyReference.cache
+C:\Users\Lahiru\source\repos\calculater\calculater\obj\Debug\net6.0-windows\calculater.Form1.resources
+C:\Users\Lahiru\source\repos\calculater\calculater\obj\Debug\net6.0-windows\calculater.Properties.Resources.resources
+C:\Users\Lahiru\source\repos\calculater\calculater\obj\Debug\net6.0-windows\calculater.csproj.GenerateResource.cache
+C:\Users\Lahiru\source\repos\calculater\calculater\obj\Debug\net6.0-windows\calculater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lahiru\source\repos\calculater\calculater\obj\Debug\net6.0-windows\calculater.AssemblyInfoInputs.cache
+C:\Users\Lahiru\source\repos\calculater\calculater\obj\Debug\net6.0-windows\calculater.AssemblyInfo.cs
+C:\Users\Lahiru\source\repos\calculater\calculater\obj\Debug\net6.0-windows\calculater.csproj.CoreCompileInputs.cache
+C:\Users\Lahiru\source\repos\calculater\calculater\obj\Debug\net6.0-windows\calculater.dll
+C:\Users\Lahiru\source\repos\calculater\calculater\obj\Debug\net6.0-windows\refint\calculater.dll
+C:\Users\Lahiru\source\repos\calculater\calculater\obj\Debug\net6.0-windows\calculater.pdb
+C:\Users\Lahiru\source\repos\calculater\calculater\obj\Debug\net6.0-windows\calculater.genruntimeconfig.cache
+C:\Users\Lahiru\source\repos\calculater\calculater\obj\Debug\net6.0-windows\ref\calculater.dll
+C:\Users\Lahiru\source\repos\calculater\calculater\obj\Debug\net6.0-windows\calculater.convertor.resources
+C:\Users\Lahiru\source\repos\calculater\calculater\obj\Debug\net6.0-windows\calculater.unit_convertor.resources
+C:\Users\Lahiru\source\repos\calculater\calculater\obj\Debug\net6.0-windows\calculater.Form2.resources
+D:\OneDrive\Desktop\Group 9 Assignment\calculater\calculater\bin\Debug\net6.0-windows\calculater.exe
+D:\OneDrive\Desktop\Group 9 Assignment\calculater\calculater\bin\Debug\net6.0-windows\calculater.deps.json
+D:\OneDrive\Desktop\Group 9 Assignment\calculater\calculater\bin\Debug\net6.0-windows\calculater.runtimeconfig.json
+D:\OneDrive\Desktop\Group 9 Assignment\calculater\calculater\bin\Debug\net6.0-windows\calculater.dll
+D:\OneDrive\Desktop\Group 9 Assignment\calculater\calculater\bin\Debug\net6.0-windows\calculater.pdb
+D:\OneDrive\Desktop\Group 9 Assignment\calculater\calculater\obj\Debug\net6.0-windows\calculater.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Group 9 Assignment\calculater\calculater\obj\Debug\net6.0-windows\calculater.convertor.resources
+D:\OneDrive\Desktop\Group 9 Assignment\calculater\calculater\obj\Debug\net6.0-windows\calculater.Form1.resources
+D:\OneDrive\Desktop\Group 9 Assignment\calculater\calculater\obj\Debug\net6.0-windows\calculater.Form2.resources
+D:\OneDrive\Desktop\Group 9 Assignment\calculater\calculater\obj\Debug\net6.0-windows\calculater.Properties.Resources.resources
+D:\OneDrive\Desktop\Group 9 Assignment\calculater\calculater\obj\Debug\net6.0-windows\calculater.unit_convertor.resources
+D:\OneDrive\Desktop\Group 9 Assignment\calculater\calculater\obj\Debug\net6.0-windows\calculater.csproj.GenerateResource.cache
+D:\OneDrive\Desktop\Group 9 Assignment\calculater\calculater\obj\Debug\net6.0-windows\calculater.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Desktop\Group 9 Assignment\calculater\calculater\obj\Debug\net6.0-windows\calculater.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\Group 9 Assignment\calculater\calculater\obj\Debug\net6.0-windows\calculater.AssemblyInfo.cs
+D:\OneDrive\Desktop\Group 9 Assignment\calculater\calculater\obj\Debug\net6.0-windows\calculater.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Group 9 Assignment\calculater\calculater\obj\Debug\net6.0-windows\calculater.dll
+D:\OneDrive\Desktop\Group 9 Assignment\calculater\calculater\obj\Debug\net6.0-windows\refint\calculater.dll
+D:\OneDrive\Desktop\Group 9 Assignment\calculater\calculater\obj\Debug\net6.0-windows\calculater.pdb
+D:\OneDrive\Desktop\Group 9 Assignment\calculater\calculater\obj\Debug\net6.0-windows\calculater.genruntimeconfig.cache
+D:\OneDrive\Desktop\Group 9 Assignment\calculater\calculater\obj\Debug\net6.0-windows\ref\calculater.dll
